@@ -1,6 +1,6 @@
 # Ionic calendar
  Aplikasi kalendar menggunakan framework Ionic versi 4 <br>
- [**Demo Aplikasi**](https://drive.google.com/file/d/1UiVJMQkAwWqeqaeSyMy8N8uanA4NRG6c/view?usp=sharing)
+ [**Demo Aplikasi**](https://drive.google.com/file/d/15q1gMlCpBL2S7wwZtlY8Xgwz6sZAyzzu/view?usp=sharing)
  <br>
  [Ebook Aplikasi]
  
@@ -11,6 +11,13 @@
 
 <img src="https://user-images.githubusercontent.com/43690617/86600330-1d0e5900-bfca-11ea-9753-5b3c6dc74158.png"/>
 
+<br>
+
+# Log pada aplikasi Chrome
+
+<img src="https://user-images.githubusercontent.com/43690617/86605677-336be300-bfd1-11ea-8064-3d4663aa0528.jpeg"/>
+
+<br>
 
 # Instalasi yang diperlukan
  
