@@ -3,13 +3,25 @@ import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
   {
-    path: 'home',
-    loadChildren: () => import('./home/home.module').then( m => m.HomePageModule)
+    path: '',
+    redirectTo: 'calendar',
+    pathMatch: 'full'
   },
   {
-    path: '',
-    redirectTo: 'home',
-    pathMatch: 'full'
+    path: 'calendar',
+    loadChildren: () => import('./pages/calendar/calendar.module').then( m => m.CalendarPageModule)
+  },
+  {
+    path: 'schedule',
+    loadChildren: () => import('./pages/schedule/schedule.module').then( m => m.SchedulePageModule)
+  },
+  {
+    path: 'view-event/:id',
+    loadChildren: () => import('./pages/view-event/view-event.module').then( m => m.ViewEventPageModule)
+  },
+  {
+    path: 'add-event-modal',
+    loadChildren: () => import('./pages/add-event-modal/add-event-modal.module').then( m => m.AddEventModalPageModule)
   },
 ];
 
