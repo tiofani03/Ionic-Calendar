@@ -80,7 +80,7 @@ Untuk menginstall dapat menjalankan perintah berikut pada terminal
 <img src = "https://user-images.githubusercontent.com/43690617/86601119-1f24e780-bfcb-11ea-9354-7640a4b002ff.jpeg" width = "200" height = "400"/>  <img src = "https://user-images.githubusercontent.com/43690617/86601126-221fd800-bfcb-11ea-9e59-55d10c4df1d0.jpeg" width = "200" height = "400"/>
 <br><br>
 
-<img src = "https://user-images.githubusercontent.com/43690617/86601140-251ac880-bfcb-11ea-9098-a85225ad03bc.jpeg" width = "200" height = "400"/>
+<img src = "https://user-images.githubusercontent.com/43690617/86601140-251ac880-bfcb-11ea-9098-a85225ad03bc.jpeg" width = "200" height = "400"/>   <img src = "https://user-images.githubusercontent.com/43690617/86603513-492bd900-bfce-11ea-82fd-1a5e66f51c0f.jpeg" width = "200" height = "400"/>
 
 # Bug Aplikasi
 Aplikasi ini masih memiliki bug yaitu ketika pertama kali menginstal, kalender tidak dapat ditampilkan.
