@@ -2,7 +2,7 @@
  Aplikasi kalendar menggunakan framework Ionic versi 4 <br>
  [**Demo Aplikasi**](https://drive.google.com/file/d/15q1gMlCpBL2S7wwZtlY8Xgwz6sZAyzzu/view?usp=sharing)
  <br>
- [Ebook Aplikasi]
+ [**Ebook Aplikasi**](https://drive.google.com/file/d/1eMRbDOLYl7AKS89qs0slOWO7MeJLbysN/view?usp=sharing)
  
  Dibuat oleh Kelompok 3
  - [Muhammad Amien Sidiq](https://github.com/muhamien12)
